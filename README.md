@@ -1,6 +1,6 @@
 # Proyecto Gradio + Hugging Face (PyCharm)
 
-Este proyecto arranca una pequeña demo de **Gradio** usando un modelo de **Hugging Face** con `transformers`.
+Este proyecto arranca varias demos de **Gradio** para ver sintaxis básica, así como su integración usando **Hugging Face** con `transformers`.
 
 ## Requisitos
 - **Python 3.10+** recomendado
